@@ -48,23 +48,21 @@ Review the Feed Reader Testing [Project Rubric](https://review.udacity.com/#!/pr
 20. When complete - all of your tests should pass. 
 21. Write a README file detailing all steps required to successfully run the application. If you have added additional tests (for Udacious Test Coverage),  provide documentation for what these future features are and what the tests are checking for.
 
-Jasmine was used for this project. 
+## GETTING STARTED
 
-GETTING STARTED
-
-How to run this test yourself:
+ # How to run this test yourself
 
 if this project was pushed to GitHub, you can:
 
-a) clone the repository
-b) create a pull request
-c) Download the ZIP folder
+A) Clone the repository
+B) Create a pull request
+C) Download the ZIP folder
 
 the third is recommended if you're uncomfortable with the first two.
 
 whichever choice you end up going with you'll end up with the same result, which is the folder being available to you locally. 
 
-choose the index.html file to start the application/test. 
+choose the (**./index.html**) file to start the application/test. 
 
 
 
